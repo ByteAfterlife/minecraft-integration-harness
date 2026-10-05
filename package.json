@@ -1,7 +1,7 @@
 {
   "name": "@byteafterlife/minecraft-integration-harness",
   "version": "1.0.0",
-  "description": "Proprietary integration-test harness for driving a local Paper server safely.",
+  "description": "Integration-test harness for driving a local Paper server safely.",
   "type": "module",
   "engines": {
     "node": ">=20"
