@@ -1,0 +1,140 @@
+# AGPL With Credits License (AGPL-C) v1.0
+
+**Copyright © 2026 ByteAfterlife**
+
+This software is licensed under the **AGPL With Credits License (AGPL-C)**, a custom license based on the GNU Affero General Public License version 3 (AGPLv3). This License includes additional mandatory attribution requirements and is **not the standard GNU AGPLv3**.
+
+## 1. Definitions
+
+For purposes of this License:
+
+**“The Software”** means the software, source code, documentation, and other materials released by the Copyright Holder under this License.
+
+**”Copyright Holder”** means the person or entity identified as the copyright holder in the applicable copyright notice.
+
+**“Modified Version”** means any work based on or incorporating all or part of the Software in which changes, additions, or other modifications have been made.
+
+**“Use”** includes running, accessing, modifying, copying, incorporating, distributing, hosting, or otherwise making the Software or a Modified Version available.
+
+**“Corresponding Source”** means the complete source code necessary to generate, install, run, and modify the relevant version of the Software or Modified Version, including any source code required by the applicable provisions of the AGPLv3.
+
+## 2. Permission to Use
+
+You are granted a worldwide, royalty-free, non-exclusive license to use, copy, modify, and distribute the Software, subject to the terms of this License.
+
+Commercial use is permitted.
+
+You may charge money for distributing the Software or a Modified Version, provided that you comply fully with this License, including its source-code, copyleft, and attribution requirements.
+
+## 3. Source Code Requirement
+
+When you distribute the Software or a Modified Version, you must make the Corresponding Source available to the recipient under the terms of this License.
+
+You may satisfy this requirement by:
+
+* providing the Corresponding Source together with the Software;
+* providing a valid written offer for the Corresponding Source; or
+* using another method permitted by the applicable provisions of the AGPLv3.
+
+You may not distribute a Modified Version in compiled, executable, or other distributable form while intentionally withholding the Corresponding Source when this License requires it to be made available.
+
+The Corresponding Source of a Modified Version must be licensed under this License.
+
+## 4. Network Use
+
+If you modify the Software and make the modified version available for users to interact with over a computer network, you must provide those users with an opportunity to obtain the Corresponding Source of that modified version, in accordance with the applicable source-code requirements of the AGPLv3.
+
+This requirement applies whether or not the modified version is separately distributed to those users.
+
+## 5. Mandatory Attribution
+
+You must preserve all copyright notices, attribution notices, license notices, and other notices included in the Software.
+
+In addition, whenever you:
+
+* publicly use the Software or a Modified Version;
+* distribute the Software or a Modified Version;
+* distribute a product or service incorporating the Software;
+* make the Software or a Modified Version available through a website, application, API, hosted service, or other network service; or
+* provide the Software or a Modified Version to another person or organization,
+
+you must provide clear and reasonably prominent attribution to the Copyright Holder.
+
+The required attribution must identify:
+
+**ByteAfterlife**
+
+and must include the following project URL where technically and reasonably practicable:
+
+**https://github.com/ByteAfterlife/minecraft-integration-harness**
+
+The attribution must be placed in a location reasonably visible to the person receiving, using, or interacting with the Software or Modified Version.
+
+## 6. Attribution to Recipients
+
+When you provide the Software or a Modified Version to another person or organization, you must ensure that the recipient receives the attribution required by Section 5.
+
+Acceptable locations for attribution include, but are not limited to:
+
+* the Software's About, Credits, or acknowledgements section;
+* documentation;
+* a copyright or license notice;
+* a website or project page;
+* an application's credits screen; or
+* another reasonably prominent location appropriate to the manner in which the Software is provided.
+
+You may not intentionally remove, obscure, or conceal the required attribution.
+
+## 7. Preservation of Attribution
+
+You may not remove, alter, obscure, or replace the Copyright Holder's required attribution.
+
+You may add attribution for your own modifications or contributions, provided that doing so does not remove, obscure, or diminish the required attribution to ByteAfterlife.
+
+## 8. Copyleft
+
+Any Modified Version of the Software must be licensed as a whole under this License when distributed or otherwise made available in a manner covered by this License.
+
+You may not impose additional restrictions on the rights granted by this License.
+
+Every recipient of the Software or a Modified Version must receive the same rights to use, modify, copy, and redistribute it that you received under this License.
+
+## 9. Incorporation of AGPLv3 Terms
+
+Except where expressly modified by this License, the terms and conditions of the **GNU Affero General Public License, version 3** ("AGPLv3") are incorporated into and form part of this License.
+
+Where a provision of the AGPLv3 conflicts with an express provision of this License, the express provision of this License controls.
+
+Where this License does not address a matter addressed by the AGPLv3, the applicable AGPLv3 provision applies.
+
+## 10. Copyright
+
+This License does not transfer ownership of the Software or the Copyright Holder's intellectual property.
+
+All rights not expressly granted by this License are reserved.
+
+## 11. Termination
+
+Your rights under this License terminate if you violate its terms, subject to any applicable cure and reinstatement provisions incorporated from the AGPLv3.
+
+Rights may be reinstated as provided by the applicable provisions of the AGPLv3.
+
+## 12. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+## 13. Relationship to AGPLv3
+
+This License is based upon the GNU Affero General Public License, version 3, but contains additional attribution requirements and other modifications.
+
+It is therefore **not the standard GNU Affero General Public License, version 3**.
+
+Software distributed under this License must not be represented as being licensed solely under the unmodified AGPLv3.
+
+---
+
+**Copyright © 2026 ByteAfterlife**
+
+**Licensed under the AGPL With Credits License (AGPL-C) v1.0.**
