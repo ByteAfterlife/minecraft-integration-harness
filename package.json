@@ -44,7 +44,7 @@
     "url": "https://github.com/byteafterlife/minecraft-integration-harness.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://gitlab.com/api/v4/projects/87270453/packages/npm/"
   },
   "devDependencies": {
     "@types/node": "^22.15.0",
